@@ -32,7 +32,7 @@ The goals / steps of this project are the following:
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You're reading it! and here is a link to my [project code](Traffic-Sign-Classifier/Traffic_Sign_Classifier.ipynb)
+You're reading it! Please refer to 'Traffic_Sign_Classifier.ipynb' for my codes.
 
 ### Data Set Summary & Exploration
 
@@ -151,8 +151,8 @@ I think VGG Net can be an ideal model design which achieve good model performanc
 
 Here are five German traffic signs that I found on the web:
 
-![Image 1: Pedestrians][image4] ![Image 2: Road Work][image5] ![Image 3: Slippery Road][image6] 
-![Image 4: Maximum Speed Limit 120][image7] ![Image 5: Roundabout][image8]
+![New Images][image4] 
+![Grayscale Images][image5]
 
 The first image might be difficult to classify because the sign is tilt.
 
